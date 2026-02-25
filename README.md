@@ -9,4 +9,4 @@ A simple TCP based Nim reverse shell for Penetration Testers &amp; Ethical Hacke
 
 
 
-<img width="1365" height="911" alt="image" src="https://github.com/user-attachments/assets/6402a7fe-a409-4c5e-9a42-fa3d151728fc" />
+
